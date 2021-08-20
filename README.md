@@ -9,8 +9,9 @@ work together on this solution. Please note that CoreDash is not designed to be
 a fork of Grafana, but will instead take a more componetized approach as a
 collection of subprojects that users can select from to meet their needs.
 
-CoreDash is the current working name for this effort, but we expect to rename
-it after we've made a bit more progress and better defined what we plan to do.
+CoreDash is the current working name / code name for this effort, but we expect
+to rename it after we've made a bit more progress and better defined what we
+plan to do.
 
 ## Getting Started
 
