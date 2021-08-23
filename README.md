@@ -2,7 +2,7 @@
 
 With the recent license changes of the Grafana project, there are quite a few
 community end users as well as monitoring vendors who are interested in a
-PromQL visualization and dashboarding solution that is under the Apache-2.0 
+visualization and dashboarding solution that is under the Apache-2.0 
 license, owned by the Linux Foundation, and governed by a mix of community
 end users and vendors. The CoreDash Project is designed as a place where we can
 work together on this solution. Please note that CoreDash is not designed to be
@@ -37,7 +37,10 @@ If you have a project (or want to start one) that would be a good fit for this
 effort, please reach out on the mailing list to discuss contributing a new
 subproject to this Linux Foundation effort.
 
-## Scope
+## Draft Scope
+
+**NOTE**: This scope section is still evolving and should be expected to change
+as we get more people and projects involved in this effort.
 
 If we look at the Observability and Analysis segment of the CNCF Landscape, the
 three projects in metrics based monitoring (Prometheus, Cortex and Thanos) are
@@ -64,6 +67,9 @@ The project will also improve the state of the art for finding and choosing
 Prometheus metrics to visualize, and for constructing PromQL queries.
 
 ## Draft Goals
+
+**NOTE**: The goals section is still evolving and should be expected to change
+as we get more people and projects involved in this effort.
 
 Goals are broken down into two sections: 1) Dashboards and 2) Ease of querying. 
 
