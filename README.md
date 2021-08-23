@@ -109,8 +109,6 @@ time:
 * Prompts and libraries/catalog of common or example queries to help users get
   started.
 
-The target user would be a JavaScript developer.
-
 ## License
 
 This project is Licensed under [Apache 2.0](LICENSE).
