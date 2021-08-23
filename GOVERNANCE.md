@@ -13,7 +13,7 @@ CoreDash is a Linux Foundation project.
 
 ## Individual Subproject Governance
 
-All active Maintainers of each [subproject](subproject.md), are members of that
+All active Maintainers of each [subproject](subproject.md) are members of that
 project's Maintainer Committee, which governs that project.  The subproject's
 Maintainer Committee is responsible for the following project governance
 activities:
@@ -72,7 +72,7 @@ be delegated to a person or group selected by the committee:
 
 * Reviewing and deciding on new projects to add to CoreDash
 * Arbitrating inter-project disagreements
-* Ensuring that the LF Code of Conduct is enforced
+* Ensuring that the [Code of Conduct](CODE_OF_CONDUCT.md) is enforced
 * Removing projects which have become inactive
 * Acting on escalated security or code quality issues
 * Resolving issues that individual projects are unable to resolve
@@ -119,5 +119,3 @@ these grounds, and Steering can confirm this with a majority vote.
 
 Projects which still have contributors will then be moved to a repository in their
 own namespace.  Projects which have ceased all activity will be archived.
-
-
