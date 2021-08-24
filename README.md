@@ -71,6 +71,15 @@ Prometheus metrics to visualize, and for constructing PromQL queries.
 **NOTE**: The goals section is still evolving and should be expected to change
 as we get more people and projects involved in this effort.
 
+We aim to make CoreDash easy to use by not requiring highly specialized skills
+to be able to benefit from these tools and dashboards. Anyone with basic web
+front end skills (Javascript, etc.) should be able to create dashboard widgets
+and screens and connect them to a variety of data sources without needing to
+write complex code or be a sys admin / DevOps expert. We hope that by making
+these technologies more inclusive to people with a wide variety of skills, we
+can open the field to a larger set of well established users who create and
+customize dashboard screens.
+
 Goals are broken down into two sections: 1) Dashboards and 2) Ease of querying. 
 
 **Dashboards**:
