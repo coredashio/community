@@ -1,13 +1,13 @@
 # Welcome to the CoreDash Community!
 
-With the recent license changes of the Grafana project, there are quite a few
-community end users as well as monitoring vendors who are interested in a
-visualization and dashboarding solution that is under the Apache-2.0 
-license, owned by the Linux Foundation, and governed by a mix of community
-end users and vendors. The CoreDash Project is designed as a place where we can
-work together on this solution. Please note that CoreDash is not designed to be
-a fork of Grafana, but will instead take a more componetized approach as a
-collection of subprojects that users can select from to meet their needs.
+There are quite a few community end users as well as monitoring vendors who are
+interested in a visualization and dashboarding solution that is under the
+Apache-2.0 license, owned by the Linux Foundation, and governed by a mix of
+community end users and vendors. The CoreDash Project is designed as a place
+where we can work together on this solution. Please note that CoreDash is not
+designed to be a fork of Grafana, but will instead take a more componetized
+approach as a collection of subprojects that users can select from to meet
+their needs.
 
 CoreDash is the current working name / code name for this effort, but we expect
 to rename it after we've made a bit more progress and better defined what we
@@ -45,9 +45,10 @@ as we get more people and projects involved in this effort.
 If we look at the Observability and Analysis segment of the CNCF Landscape, the
 three projects in metrics based monitoring (Prometheus, Cortex and Thanos) are
 all Prometheus ingest format and PromQL based solutions. The other graduated or
-incubating projects are fluentd in logging which has no standard ingest protocol
-or query language yet and Jaeger and OpenTracing, which have a standard
-protocol, but customized visualization / UX per solution.
+incubating projects are Fluentd and Jaeger. Fluentd is a logging solution,
+which has no standard ingest protocol or query language yet. Jaeger has a
+custom ingestion protocol and custom querying / visualization / UX, and the
+community is standardizing the ingesting format with OpenTelemetry.
 
 To give this new project the best chance of being successful, reducing the initial
 scope to provide faster value for end users is ideal from our perspective.
