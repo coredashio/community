@@ -10,6 +10,11 @@ Not everything happens through a GitHub pull request. We encourage our
 contributors to join our mailing list and attend meetings if possible. Details
 about how to communicate with us can be found in our [README](README.md).
 
+## Maintainers
+
+The list of current maintainers can be found in
+[.github/settings.yml](.github/settings.yml)
+
 ## Sign Your Commits
 
 For contributions to this repo, we use a DCO process.
