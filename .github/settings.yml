@@ -11,14 +11,16 @@ repository:
   homepage: https://coredash.io
   
   # Collaborators: give specific users access to this repository.
-  # see /governance/roles.md for details on write access policy
-  # note that the permissions below may provide wider access than needed for
+  # Note that the permissions below may provide wider access than needed for
   # a specific role, and we trust these individuals to act according to their
   # role. If there are questions, please contact one of the chairs.
 collaborators:
   # Maintainers
   - username: caniszczyk
     permission: admin
-    
   - username: geekygirldawn
     permission: admin
+  - username: Nexucis
+    permission: maintain
+  - username: juliusv
+    permission: maintain

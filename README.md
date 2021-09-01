@@ -29,9 +29,16 @@ doc](https://docs.google.com/document/d/1FZy-tuIz-C5NSQe3AdeT-DixZZXMjDi-BnQy2kj
 Participation in this community is subject to our
 [Code of Conduct](CODE_OF_CONDUCT.md).
 
-### Subprojects
+### Contributing
 
-You can start now by contributing to one of our [subprojects](subprojects.md). 
+If you would like to contribute to this repo, please read our [Contributing
+Guide](CONTRIBUTING.md).
+
+Because this is an umbrella project, you should consider contributing 
+to one of our [subprojects](subprojects.md), which will have different
+instructions for contributing depending on the project.
+
+### Subprojects
 
 If you have a project (or want to start one) that would be a good fit for this
 effort, please reach out on the mailing list to discuss contributing a new
