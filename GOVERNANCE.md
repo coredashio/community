@@ -65,6 +65,11 @@ Committee, which is selected as follows:
 * One Adopter Council Chair
 * Three Community Representatives
 
+Subprojects under the CoreDash umbrella have their own governance and decision
+making processes. The Steering Committee should not be involved in the day to
+day work of a subproject unless there is an issue that the project would like
+to escalate to the Steering Committee.
+
 ### Steering Committee Duties
 
 The Steering Committee is responsible for the following tasks, any of which may
